@@ -1,0 +1,14 @@
+C:\Users\dok\Desktop\Test Task\Test Task\Test Task\bin\Debug\TestTaskDB.mdf
+C:\Users\dok\Desktop\Test Task\Test Task\Test Task\bin\Debug\TestTaskDB_log.ldf
+C:\Users\dok\Desktop\Test Task\Test Task\Test Task\bin\Debug\Test Task.exe.config
+C:\Users\dok\Desktop\Test Task\Test Task\Test Task\bin\Debug\Test Task.exe
+C:\Users\dok\Desktop\Test Task\Test Task\Test Task\bin\Debug\Test Task.pdb
+C:\Users\dok\Desktop\Test Task\Test Task\Test Task\obj\x86\Debug\Test_Task.Properties.Resources.resources
+C:\Users\dok\Desktop\Test Task\Test Task\Test Task\obj\x86\Debug\Test Task.csproj.GenerateResource.Cache
+C:\Users\dok\Desktop\Test Task\Test Task\Test Task\obj\x86\Debug\Test Task.exe
+C:\Users\dok\Desktop\Test Task\Test Task\Test Task\obj\x86\Debug\Test Task.pdb
+C:\Users\dok\Desktop\Test Task\Test Task\Test Task\obj\x86\Debug\Test Task.csprojResolveAssemblyReference.cache
+C:\Users\dok\Desktop\Test Task\Test Task\Test Task\obj\x86\Debug\Test_Task.AddCottagerForm.resources
+C:\Users\dok\Desktop\Test Task\Test Task\Test Task\obj\x86\Debug\Test_Task.AddTariffForm.resources
+C:\Users\dok\Desktop\Test Task\Test Task\Test Task\obj\x86\Debug\Test_Task.AddWaterConsumptionForm.resources
+C:\Users\dok\Desktop\Test Task\Test Task\Test Task\obj\x86\Debug\Test_Task.MainForm.resources
